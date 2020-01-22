@@ -1,0 +1,17 @@
+{
+  "name": "my-static-site",
+  "version": "1.0.0",
+  "description": "My flawless Nuxt.js project",
+  "author": "Iggy",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "nuxt": "^2.0.0"
+  },
+  "devDependencies": {}
+}
